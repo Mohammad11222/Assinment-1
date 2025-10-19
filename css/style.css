@@ -51,7 +51,7 @@
     font-weight: 400;
     line-height: 26px;
     letter-spacing: 0%;
-    text-align: center;
+    text-align: ;
 }
 .bener button {
     color: rgb(255, 255, 255);
@@ -68,12 +68,63 @@
     color: white;
     font-family: Azeret Mono;
 }
-.
-.
-.
-.
+/* work start in mainsection */
 
-.
+main{
+    background-color: aqua;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    padding: 80px 95px;
+    margin-top: 75px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+}
+.Layer_1{
+
+}
+.Layer_1_title{
+    color: rgba(13, 19, 33, 1);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.layer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgba(255, 255, 255, 1),rgba(255, 255, 255, 0) 100%);
+    padding: 45px; 
+    margin-top: 50px;
+    gap: 150px;
+}
+.layer-3{
+    border-radius: 16px;
+background: linear-gradient(270.00deg, rgba(255, 255, 255, 1),rgba(255, 255, 255, 0) 100%);
+}
+.layer-header{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.learn-btn{
+    width: 130px;
+    height: 30px;
+    background-color: transparent;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 1);
+    opacity: 0.7;
+
+}
 .
 .
 .
